@@ -36,9 +36,10 @@
 
 ## < 기술 스택 >
 ### ✔️Frond-end
-        * Library : React
-        * Styling : styled-components
+        * Library : React, react-kakao-maps-sdk, react-quill, dompurify, lodash
+        * Styling : styled-components, react-icons
         * Data Fetching : axios
+        * WebSocket : stompjs
         * State Management : redux js toolkit
         * State Form : React Hook Form
         * Module Bundler : Vite
