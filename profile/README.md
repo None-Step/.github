@@ -242,12 +242,10 @@
 
 ## 💡 사용한 공공 데이터 목록
 
-* 데이터의 경우, [공공데이터 포털](https://www.data.go.kr/) 및 [철도 데이터 포털](https://data.kric.go.kr/rips/) 에서 <br>
-  제공하는 공공 데이터를 가공하여 사용하였음
+* 데이터의 경우, [공공데이터 포털](https://www.data.go.kr/) 및 [철도 데이터 포털](https://data.kric.go.kr/rips/) 에서 제공하는 공공 데이터를 가공하여 사용하였음
 
 <details>
 <summary>📌 01. 기본 정보</summary>
-## 기본 정보
  
 <br>
 ✔ 해당 역의 호선, 역 명, 도로명 주소, 환승 가능 호선 등 참고 하였습니다.
